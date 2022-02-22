@@ -15,7 +15,7 @@ The main goal of this project is to perform extensive Exploratory  Data Analysis
   * [Deployement on Heroku](#deployement-on-heroku)
 
 ## Demo
-Link: [https://zomato-rate-pred-mlalgo.herokuapp.com/](https://zomato-rate-pred-mlalgo.herokuapp.com/)
+Link: [https://zomato-rate-pred-mlalgo.herokuapp.com/] (https://zomato-rate-pred-mlalgo.herokuapp.com/)
 
 ## Project
 * Project Title : Restaurant Rating Prediction
