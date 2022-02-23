@@ -24,7 +24,7 @@ Link: [https://zomato-rate-pred-mlalgo.herokuapp.com/](https://zomato-rate-pred-
 * Domain : E-commerce
 
 ## Overview
-This is a Flask web app which predicts your car selling price.
+This is a Django web app which predicts your car selling price.
 
 
 
